@@ -1,7 +1,0 @@
-1 27 Stk
-2 31 Stk
-3 15 Stk
-4 5 Stk
-5 18 Stk
-6 42 Stk
-7 19 Stk
